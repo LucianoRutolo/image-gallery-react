@@ -1,0 +1,17 @@
+.footer {
+  box-sizing: border-box;
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0 20px;
+  background-color: var(--clr-grey);
+  color: var(--clr-white);
+  bottom: 0;
+  font-size: 0.8em;
+}
+
+.footer__link {
+  color: inherit;
+  font-weight: 600;
+}

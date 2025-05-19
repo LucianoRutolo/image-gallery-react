@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+  --clr-white: #ffffff;
+  --clr-black: #141418;
+  --clr-grey: #646468;
+  --gal-gap: 24px;
+}
+
+body {
+    margin: 0;
+    font-family: 'Montserrat', Verdana, Geneva, Tahoma, sans-serif;
+}

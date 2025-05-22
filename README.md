@@ -1,3 +1,9 @@
+# Image Gallery React
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b6db88c5-cd7c-4585-93a5-31739e054cad/deploy-status)](https://app.netlify.com/projects/lucianorutolo-gallery/deploys)
+
+A image gallery made with react that uses the Pixabay API
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
